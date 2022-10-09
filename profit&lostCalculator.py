@@ -1,4 +1,4 @@
-# Profit and Lost Calculator by g4 :d
+# Profit and Lost Calculator by g4 :d 
 
 income = int(input("please input your income: "))
 cost = int(input("please input your cost: "))
